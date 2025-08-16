@@ -51,6 +51,3 @@ Specialties: Selenium, Appium, CI/CD, API testing, and performance testing.
 </p>
 
 <!-- Optional: quick links to your key repos -->
-### Featured Projects
-- 🚀 [🔁 Project One](🔁 repo link) — short one-liner about what it does
-- 🔧 [🔁 Project Two](🔁 repo link) — short one-liner about what it does
