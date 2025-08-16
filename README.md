@@ -1,11 +1,11 @@
-<h1 align="left">Hi 👋, I'm 🔁 Your Name</h1>
+<h1 align="left">Hi 👋, I'm Ovoke Omoboh</h1>
 
 <p align="center">
   <img src="assets/hero.gif" alt="code animation" width="800">
 </p>
 
-A passionate Test Automation Engineer with 🔁 X+ years of experience in web & mobile automation.  
-Specialties: Selenium, Appium, Cypress, CI/CD, API testing, and performance testing.
+A passionate Test Automation Engineer with 7+ years of experience in web & mobile automation.  
+Specialties: Selenium, Appium, CI/CD, API testing, and performance testing.
 
 - 🔭 I’m currently working on: **🔁 your current role/project**
 - 🌱 I’m learning: **🔁 tools/tech (e.g., Docker, AWS, GitHub Actions)**
