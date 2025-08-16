@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Replace with your own GIF or image -->
-  <img src="hero_java_selenium.gif" alt="Java Selenium animation" width="800">
+  <img src="hero_java_selenium_optimized.gif" alt="Java Selenium animation" width="800">
 </p>
 
 A passionate **Test Automation Engineer** with hands-on experience in Website and Mobile Automation Testing.  
