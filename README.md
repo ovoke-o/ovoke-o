@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Replace with your own GIF or image -->
-  <img src="hero_java_selenium_optimized.gif" alt="Java Selenium animation" width="800">
+  <img src="hero_java_selenium_optimized.gif" alt="Java Selenium animation" width="900">
 </p>
 
 A passionate **Test Automation Engineer** with hands-on experience in Website and Mobile Automation Testing.  
@@ -33,7 +33,7 @@ I enjoy building reliable test frameworks, solving complex QA challenges, and in
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
   <a href="https://specflow.org" target="_blank" rel="noreferrer">
-    <img src="https://specflow.org/wp-content/uploads/2021/05/SpecFlow-Logo-Icon.png" alt="specflow" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="specflow" width="40" height="40"/>
   </a>
   <a href="https://www.postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
@@ -42,7 +42,10 @@ I enjoy building reliable test frameworks, solving complex QA challenges, and in
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+   <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -51,11 +54,3 @@ I enjoy building reliable test frameworks, solving complex QA challenges, and in
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
 </p>
-
----
-
-### 🚀 Featured Projects
-- 🔧 [Automation Framework](#) — Modular test automation framework in **C# + SpecFlow + Selenium**
-- 🌐 [API Test Suite](#) — Automated **API regression suite** with Postman and Newman
-- 📱 [Mobile Test Framework](#) — End-to-end **mobile automation** using Appium  
-
