@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Replace with your own GIF or image -->
-  <img src="212964557-8d832278-61bb-4288-a8a7-47f35859e868.gif" alt="Java Selenium animation" width="900">
+  <img src="img/212964557-8d832278-61bb-4288-a8a7-47f35859e868.gif" alt="Java Selenium animation" width="900">
 </p>
 
 <h3> A passionate Test Automation Engineer with hands-on experience in Web, API and Mobile Automation Testing. </h3> 
