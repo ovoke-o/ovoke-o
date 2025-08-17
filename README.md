@@ -69,10 +69,13 @@ I enjoy building reliable test frameworks, solving complex QA challenges, and in
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
     <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="jetbrains" width="40" height="40"/>
   </a>
   <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original.svg" alt="jetbrains" width="40" height="40"/>
   </a>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original.svg" alt="csharp" width="40" height="40"/>
+</a>
   
 </p>
