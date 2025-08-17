@@ -8,18 +8,24 @@
 <h3> A passionat Test Automation Engineer with hands-on experience in Web, API and Mobile Automation Testing. </h3> 
 I specialize in **Selenium, Playwright, SpecFlow, Appium, API Testing, and CI/CD pipelines**.  
 I enjoy building reliable test frameworks, solving complex QA challenges, and integrating testing with DevOps.
-
-- 🔭 I’m currently working on: **End-to-End Test Automation Projects**  
-- 🌱 I’m learning: **Docker, AWS, and advanced CI/CD with GitHub Actions**  
-- 💬 Ask me about: **Selenium, SpecFlow, Java, C#, API Testing, Postman, CI/CD pipelines**  
-- ⚡ Fun fact: **I love solving problems with a blend of coding and creativity**  
-
----
+<p></p>
+<ul>
+  <li>
+    <p>🔭 I’m currently working on: **End-to-End Test Automation Projects**</p>
+  </li>
+  <li>
+    <p>🌱 I’m learning: **Docker, AWS, and advanced CI/CD with GitHub Actions**</p>
+  </li>
+  <li>
+    <p>⚡ Fun fact: **I love solving problems with a blend of coding and creativity**</p>
+  </li>
+   <li>
+    <p>💬 Ask me about: **Selenium, SpecFlow, Java, C#, API Testing, Postman, CI/CD pipelines**</p>
+  </li>
+</ul>
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omobohovoke/)
-
----
 
 ### 🛠️ Languages & Tools
 <p>
