@@ -5,7 +5,7 @@
   <img src="212964557-8d832278-61bb-4288-a8a7-47f35859e868.gif" alt="Java Selenium animation" width="900">
 </p>
 
-<h3> A passionat Test Automation Engineer with hands-on experience in Web, API and Mobile Automation Testing. </h3> 
+<h3> A passionate Test Automation Engineer with hands-on experience in Web, API and Mobile Automation Testing. </h3> 
 I specialize in **Selenium, Playwright, SpecFlow, Appium, API Testing, and CI/CD pipelines**.  
 I enjoy building reliable test frameworks, solving complex QA challenges, and integrating testing with DevOps.
 <p></p>
